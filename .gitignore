@@ -1,0 +1,5 @@
+*.pyc
+deploy.sh
+b.sh
+.git/*
+

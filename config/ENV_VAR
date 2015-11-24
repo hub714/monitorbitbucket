@@ -1,0 +1,7 @@
+#!/bin/bash
+
+BUCKET_NAME='awshubfiles'
+PREFIX='deployment'
+KEY_BUCKET='awshubfiles'
+KEY_PREFIX='djangophotos'
+KEY_NAME='bbdepkey'
